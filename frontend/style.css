@@ -744,7 +744,9 @@ input:checked+.slider:before {
     left: 200px;
 }
 
-
+#img100{
+    mix-blend-mode:multiply;
+}
 
 
 
